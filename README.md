@@ -14,7 +14,7 @@ I created this to practice log analysis — the kind of pattern detection SOC an
 * **Unit Tested:** Core logic (IP extraction, failed login counting, suspicious flagging) is covered by automated tests using pytest.
 
 ### How to run it:
-1. Clone the repo: git clone https://github.com/niceuslober/log-analyzer.git
+1. Clone the repo: git clone https://github.com/YOUR_USERNAME/log-analyzer.git
 2. Go to the folder: cd log-analyzer
 3. Run it: python3 log_analyzer.py
 
